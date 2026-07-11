@@ -1,46 +1,18 @@
-# ArcatlasNext - Índice
+# ArcatlasNext — Índice Maestro
 
-## 📖 Documentación
+## Soluciones
+| ID | Nombre | Tipo | Industria | Estado |
+|----|--------|------|-----------|--------|
+| SOL-001 | G Inversiones | website | inmobiliaria | activo |
 
-- README.md
-- VISION.md
-- MISSION.md
-- PRINCIPLES.md
-- ARCHITECTURE.md
+## Recursos
+| ID | Nombre | Tipo | Rating |
+|----|--------|------|--------|
+| RES-001 | awesome-n8n-templates | github-repo | 4/5 |
+| RES-002 | zie619 n8n-workflows | github-repo | 5/5 |
 
----
-
-## 📚 Recursos
-
-- Websites
-- GitHub
-- YouTube
-- AI Tools
-- Prompts
-- Books
-- Courses
-
----
-
-## 🧠 Conocimiento
-
-- Next.js
-- Supabase
-- PostgreSQL
-- n8n
-- Docker
-- Seguridad
-- UI/UX
-- APIs
-
----
-
-## 🧩 Soluciones
-
-Aquí se documentarán las soluciones creadas para diferentes industrias y necesidades.
-
----
-
-## 🚀 Roadmap
-
-Pendiente.
+## Plantillas
+- docs/templates/TEMPLATE-SOLUTION.md
+- docs/templates/TEMPLATE-LESSONS.md
+- docs/templates/TEMPLATE-RESOURCE.md
+- docs/templates/TEMPLATE-WORKFLOW.md
